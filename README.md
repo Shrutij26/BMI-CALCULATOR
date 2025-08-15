@@ -14,8 +14,9 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 🖼️ Clean and colorful interface using Tkinter.
 
 
-**🛠️ Tools Used
-**
+
+**🛠️ Tools Used**
+
 
 🐍 Python 3: The main programming language.
 
@@ -24,6 +25,7 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 📩 messagebox: Tkinter module to show error messages.
 
 💻 Command Line: To run the script.
+
 
 
 **😓 Challenges Faced**
@@ -38,11 +40,13 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 🔄 Adding the Reset button to clear all fields was a bit challenging but fun.
 
 
+
 **📋 Command to Run**
 
 Clone the repo and run this command to start the BMI Calculator:
 
 https://github.com/Shrutij26/BMI-CALCULATOR.git
+
 
 
 **Built with 💖 by Shruti**
