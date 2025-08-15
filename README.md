@@ -1,5 +1,5 @@
 **BMI Calculator 🩺✨**
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📝 Description**
 
 This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Just enter your weight (in kg) and height (in meters), and it tells you your BMI and health status (like Underweight or Normal). 🏋️‍♂️ It’s user-friendly with a nice GUI and buttons to calculate or reset. 🎉
@@ -13,7 +13,7 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 
 🖼️ Clean and colorful interface using Tkinter.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🛠️ Tools Used**
 
@@ -26,7 +26,7 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 
 💻 Command Line: To run the script.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **😓 Challenges Faced**
 
@@ -39,7 +39,7 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 
 🔄 Adding the Reset button to clear all fields was a bit challenging but fun.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **📋 Command to Run**
 
@@ -47,7 +47,8 @@ Clone the repo and run this command to start the BMI Calculator:
 
 https://github.com/Shrutij26/BMI-CALCULATOR.git
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Built with 💖 by Shruti**
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
