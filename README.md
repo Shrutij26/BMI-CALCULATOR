@@ -23,6 +23,6 @@ This is a simple Python app that calculates your Body Mass Index (BMI)! 😊 Jus
 
 📋 Command to Run
 Clone the repo and run this command to start the BMI Calculator:
-
+https://github.com/Shrutij26/BMI-CALCULATOR.git
 
 Built with 💖 by Shruti
